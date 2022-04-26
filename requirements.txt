@@ -1,0 +1,17 @@
+certifi
+charset-normalizer
+click
+Flask
+Flask-Login
+gunicorn
+idna
+itsdangerous
+Jinja2
+MarkupSafe
+mysql-connector-python
+protobuf
+requests
+selenium
+urllib3
+Werkzeug
+pandas
